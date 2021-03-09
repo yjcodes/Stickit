@@ -11,6 +11,14 @@ All notes are stored by using the Chrome Storage API. There are some advantages 
 This is the an alpha release, so it will probably have some bugs. If you find some of them, send me an email. Be patient, I will fix it as soon as I can. 
 ****
 
+# How to Install
+1. Download Stickit from github repo ( https://www.github.com/yjcodes/Stickit )
+2. Open chrome://extensions
+3. Enable the Developer Mode from Top Right Corner
+4. Click on Load Unpacked option appeared on Top Left Corner
+5. Select the path of downloaded Repository in your local machine
+6. Hola! Extension is successfully loaded and Now you can easily use Plugin.
+
 ## Developer
 
 _Copyright Yuvansh Joshi (http://yuvansh-joshi.herokuapp.com/)_  
